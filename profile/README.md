@@ -6,4 +6,4 @@
 
 </div>
 
-<a href="https://openrealm.social"><img width="100%%" alt="OpenRealm" src="https://raw.githubusercontent.com/openrealmsocial/.github/master/openrealm.ppg" /></a>
+<a href="https://openrealm.social"><img width="100%%" alt="OpenRealm" src="https://raw.githubusercontent.com/openrealmsocial/.github/main/openrealm.ppg" /></a>
