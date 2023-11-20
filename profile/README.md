@@ -1,6 +1,6 @@
 <div align="center">
 
-### Empower Your Voice, Decentralize Your Choice!
+### A New Era of Expression – Decentralized and Direct!
 
 #### [openrealm.social](https://openrealm.social)
 
